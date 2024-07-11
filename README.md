@@ -1,4 +1,9 @@
 # Snake-game
+Developed a classic Snake game using JavaScript and HTML5 Canvas.
+Utilized event handling for user input (arrow keys) to control the snake's direction.
+Integrated scoring system and game over logic to enhance gameplay functionality.
+Demonstrated proficiency in JavaScript programming, HTML FOR frontend design.
+
 Html 
 <!DOCTYPE html>
 <html lang="en">
